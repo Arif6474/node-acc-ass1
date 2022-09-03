@@ -2,23 +2,23 @@
     {
       "id": "01",
       "gender": "male",
-      "name": "shuvo",
-      "contact": "01838404512",
+      "name": "Jobair",
+      "contact": "018465465",
       "address": "Dumki Patuakhali",
       "photoUrl": "https//:fake-url-01.com"
     },
     {
       "id": "02",
       "gender": "male",
-      "name": "Mizan",
-      "contact": "0176543325",
+      "name": "Emon",
+      "contact": "0176459316",
       "address": "Thanabriz, Dumki",
       "photoUrl": "https//:fake-url-02.com"
     },
     {
       "id": "03",
       "gender": "male",
-      "name": "Halim",
+      "name": "Shahid",
       "contact": "01742494453",
       "address": "Patabunia, Dumki",
       "photoUrl": "https//:fake-url-03.com"
